@@ -5,7 +5,7 @@ import "./globals.css";
 //   src: "./fonts/GeistVF.woff",
 //   variable: "--font-geist-sans",       //did this due to build error
 //   weight: "100 900",
-// });
+// });                                       //trying commit
 // const geistMono = localFont({
 //   src: "./fonts/GeistMonoVF.woff",
 //   variable: "--font-geist-mono",
